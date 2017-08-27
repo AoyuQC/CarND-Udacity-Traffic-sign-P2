@@ -18,13 +18,13 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/hist_label.png "Visualization of labels"
-[image2]: ./examples/preprocess.jpg "Preprocess"
-[image3]: ./examples/lost_accuracy.jpg "Training process"
-[image4]: ./examples/deer-Copy1.png "Traffic Sign 1"
-[image5]: ./examples/pedeistrians-Copy1.png "Traffic Sign 2"
-[image6]: ./examples/signals-Copy1.png "Traffic Sign 3"
-[image7]: ./examples/turnright-Copy1.png "Traffic Sign 4"
-[image8]: ./examples/yield-Copy1.png "Traffic Sign 5"
+[image2]: ./examples/preprocess.png "Preprocess"
+[image3]: ./examples/lost_accuracy.png "Training process"
+[image4]: ./examples/deer-Copy1.jpg "Traffic Sign 1"
+[image5]: ./examples/pedeistrians-Copy1.jpg "Traffic Sign 2"
+[image6]: ./examples/signals-Copy1.jpg "Traffic Sign 3"
+[image7]: ./examples/turnright-Copy1.jpg "Traffic Sign 4"
+[image8]: ./examples/yield-Copy1.jpg "Traffic Sign 5"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
